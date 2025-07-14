@@ -16,6 +16,5 @@
 #include "hardware/spi.h"
 
 #include "st77xx.h"
-#include "pff.h"
 
 #endif
